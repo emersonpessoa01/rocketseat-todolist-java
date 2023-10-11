@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Debug (Launch) - localhost",
+        "request": "launch",
+        "mainClass": "br.com.emersonpessoa.todolist.TodolistApplication",
+        "projectName": "todolist",
+        "args": "",
+        "vmArgs": "-Dserver.port=8080", // Defina as opções da máquina virtual Java aqui
+        "hostName": "localhost",
+        "port": 8080 // Porta de depuração do localhost
+      }
+    ]
+  }
