@@ -48,6 +48,15 @@ Na aula4, "Atualizando tarefas e validação de rotas" utilizando o testador de 
             <version>0.10.2</version>
         </dependency>
 
+&#10003; Adicionado dentro `application.properties`
+~~~
+    spring.datasource.url=jdbc:h2:mem:todolist
+    spring.datasource.driverClassName=org.h2.Driver
+    spring.datasource.username=admin
+    spring.datasource.password=admin
+    spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+    spring.h2.console.enabled=true
+~~~
 ## Estrutura do projeto:
 
 <!-- []() -->
