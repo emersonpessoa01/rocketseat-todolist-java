@@ -48,7 +48,7 @@ Na aula4, "Atualizando tarefas e validação de rotas" utilizando o testador de 
             <version>0.10.2</version>
         </dependency>
 
-&#10003; Adicionado dentro `application.properties`
+&#10003; `application.properties`
 ~~~
     spring.datasource.url=jdbc:h2:mem:todolist
     spring.datasource.driverClassName=org.h2.Driver
