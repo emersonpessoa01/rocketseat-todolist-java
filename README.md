@@ -57,6 +57,10 @@ Aulas | Descrição
     spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
     spring.h2.console.enabled=true
 ~~~
+
+######  _PARA ACESSAR O BANCO DE DADOS EM MEMÓRIA_
+`localhost:8080/h2-console`<br>
+`trocar A URL do JDBC para jdbc:h2:mem:todolist`
 ## Estrutura do projeto:
 
 <!-- []() -->
