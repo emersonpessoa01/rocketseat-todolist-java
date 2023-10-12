@@ -1,7 +1,8 @@
 <p align="center">
   <img src="img/java2.png" alt="Logo do Java">
 </p>
-# Rocketseat :rocket: To-Do List Java <img style="border-radius:16px" src="img/favicon.ico">
+
+<p align="center"> Rocketseat <img style="border-radius:16px" src="img/favicon.ico"> To-Do List </p>
 
 ---
 
