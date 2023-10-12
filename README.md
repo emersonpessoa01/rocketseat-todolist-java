@@ -2,7 +2,7 @@
   <img src="img/java2.png" alt="Logo do Java">
 </p>
 
-<p align="center"> Rocketseat <img style="border-radius:16px" src="img/favicon.ico"> To-Do List </p>
+<p align="center"> Rocketseat <a href="https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8" type="noopener norefer"><img style="border-radius:16px" src="img/favicon.ico"></a> To-Do List </p>
 
 ---
 
