@@ -1,4 +1,4 @@
-# Rocketseat :rocket: To-Do List Java
+# Rocketseat :rocket: To-Do List Java <img style="border-radius:16px" src="img/favicon.ico">
 
 ---
 
