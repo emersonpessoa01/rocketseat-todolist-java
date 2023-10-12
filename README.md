@@ -6,7 +6,7 @@
 
 ---
 
-### Evento Java da Rocketseat utilizando o framework Springboot configurado dentro do VSCODE.
+### Evento Java da Rocketseat utilizando o framework Springboot configurado no VSCODE.
 
 
 Aulas | Descrição
