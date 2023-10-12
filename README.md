@@ -1,3 +1,5 @@
+<img style="border-radius:16px;display:block; margin: 0 auto" src="img/java2.png">
+
 # Rocketseat :rocket: To-Do List Java <img style="border-radius:16px" src="img/favicon.ico">
 
 ---
