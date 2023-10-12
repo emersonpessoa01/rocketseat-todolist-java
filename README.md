@@ -1,4 +1,4 @@
-# Rocketseat Todolist Java
+# Rocketseat :rocket: To-Do List Java
 
 ---
 
