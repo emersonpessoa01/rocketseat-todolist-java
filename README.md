@@ -7,6 +7,8 @@
 ---
 
 ## Curso online de Java da Rocketseat
+### Tópicos 
+
 :small_blue_diamond:[Material Complementar](#material-complementar)
 
 :small_blue_diamond:[Dependências](#dependências)
