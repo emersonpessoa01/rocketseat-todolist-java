@@ -5,7 +5,8 @@
         "type": "java",
         "name": "Debug (Launch) - localhost",
         "request": "launch",
-        "mainClass": "br.com.emersonpessoa.todolist.TodolistApplication",
+        "mainClass": "br.com.emersonpessoa.todolist.TodolistApplication", 
+        // Substitua pelo nome da classe principal do seu aplicativo
         "projectName": "todolist",
         "args": "",
         "vmArgs": "-Dserver.port=8080", // Defina as opções da máquina virtual Java aqui
