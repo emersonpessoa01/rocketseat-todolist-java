@@ -4,8 +4,6 @@
 
 <h1 align="center"> Rocketseat <a href="https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8" rel="nofollow noopener noreferrer" alt="Material complementar" target="_blank"><img style="border-radius:16px" src="img/favicon.ico" alt="Imagem favicon da rocketseat"></a> To-Do List </h1>
 
----
-
 ## Curso online de Java da Rocketseat
 ### Tópicos 
 
