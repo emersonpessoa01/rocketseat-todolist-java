@@ -15,7 +15,7 @@
 
 :small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 
-:small_blue_diamond:[Configuração do application.properties](#Configuração-do-application-properties)
+:small_blue_diamond:[Configuração do application properties](#Configuração-do-application-properties)
 <br><br>
 
 Aulas|Descrição
