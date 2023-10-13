@@ -29,7 +29,6 @@ Aulas|Descrição
 
 ## Dependências:
 
-<!-- lombok -->
 &#10003; Lombok
 
         <dependency>
@@ -40,7 +39,6 @@ Aulas|Descrição
         </dependency>
 
 &#10003; h2 Database Engine
-<!-- h2 Database Engine  -->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -53,7 +51,6 @@ Aulas|Descrição
         </dependency>
 
 
-        
 &#10003; bcrypt
 
         <dependency>
@@ -61,6 +58,7 @@ Aulas|Descrição
             <artifactId>bcrypt</artifactId>
             <version>0.10.2</version>
         </dependency>
+
 
 &#10003; `application.properties`
 ~~~
@@ -73,11 +71,9 @@ Aulas|Descrição
 ~~~
 
 ## Acesso ao Banco de Dados
+
 `localhost:8080/h2-console`<br>
 `trocar A URL do JDBC para jdbc:h2:mem:todolist`
 ## Estrutura do projeto
 
-<!-- []() -->
-
-<div align="center"><img src="img/README.png" width=auto>
-</div>
+<div align="center"><img src="img/README.png" width=auto></div>
