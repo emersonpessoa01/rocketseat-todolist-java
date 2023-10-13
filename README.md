@@ -6,7 +6,7 @@
 
 ---
 
-### Semana online de Java da Rocketseat utilizando o framework Springboot configurado no VSCODE.
+### Curso online de Java da Rocketseat
 
 
 Aulas | Descrição
