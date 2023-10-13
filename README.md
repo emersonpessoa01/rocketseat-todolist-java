@@ -23,7 +23,8 @@ Aulas|Descrição
 &#10004; Aula01| Construção back-end de uma aplicação de To-Do List.
 &#10004; Aula02 | Integração com Banco de Dados utilizando o H2 Database.
 &#10004; Aula03| Implementando segurança nos dados do usuário.
-&#10004; Aula04| Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API .
+&#10004; Aula04| Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API.
+&#10004; Aula05| Deploy do Back-End.
 
 ## Material Complementar
 
