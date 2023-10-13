@@ -14,6 +14,8 @@
 :small_blue_diamond:[Acesso ao Banco de Dados](#acesso-ao-banco-de-dados)
 
 :small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
+
+:small_blue_diamond:[Configuração do application.properties](#Configuração-do-application.properties)
 <br><br>
 
 Aulas|Descrição
@@ -60,7 +62,8 @@ Aulas|Descrição
         </dependency>
 
 
-&#10003; `application.properties`
+## Configuração do application.properties
+
 ~~~
     spring.datasource.url=jdbc:h2:mem:todolist
     spring.datasource.driverClassName=org.h2.Driver
