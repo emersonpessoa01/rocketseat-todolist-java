@@ -7,7 +7,13 @@
 ---
 
 ### Curso online de Java da Rocketseat
-:small_blue_diamond:[Descrição do projeto](#descrição-dO-projeto)
+:small_blue_diamond:[Material Complementar](#material-complementar)
+
+:small_blue_diamond:[Dependências](#dependências)
+
+:small_blue_diamond:[Acesso ao Banco de Dados](#acesso-ao-banco-de-dados)
+
+:small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 
 Aulas | Descrição
 :----:  | :----
@@ -64,16 +70,11 @@ Aulas | Descrição
     spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
     spring.h2.console.enabled=true
 ~~~
-## Descrição do projeto 
 
-<p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
-</p>
-
-######  _PARA ACESSAR O BANCO DE DADOS EM MEMÓRIA_
+### Acesso ao Banco de Dados
 `localhost:8080/h2-console`<br>
 `trocar A URL do JDBC para jdbc:h2:mem:todolist`
-## Estrutura do projeto:
+## Estrutura do projeto
 
 <!-- []() -->
 
