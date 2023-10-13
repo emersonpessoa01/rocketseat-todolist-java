@@ -7,7 +7,7 @@
 ---
 
 ### Curso online de Java da Rocketseat
-
+:small_blue_diamond:[Descrição do projeto](#descrição-dO-projeto)
 
 Aulas | Descrição
 :----:  | :----
@@ -17,6 +17,7 @@ Aulas | Descrição
 &#10004; Aula04| Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API .
 
 ### Material Complementar
+
 [Curso online Java](https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8)
 
 ### Dependências:
@@ -63,6 +64,11 @@ Aulas | Descrição
     spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
     spring.h2.console.enabled=true
 ~~~
+## Descrição do projeto 
+
+<p align="justify">
+  Descrição breve do projeto compondo um paragrafo ou dois. 
+</p>
 
 ######  _PARA ACESSAR O BANCO DE DADOS EM MEMÓRIA_
 `localhost:8080/h2-console`<br>
