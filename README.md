@@ -6,7 +6,7 @@
 
 ---
 
-### Curso online de Java da Rocketseat
+## Curso online de Java da Rocketseat
 :small_blue_diamond:[Material Complementar](#material-complementar)
 
 :small_blue_diamond:[Dependências](#dependências)
@@ -23,11 +23,11 @@ Aulas|Descrição
 &#10004; Aula03| Implementando segurança nos dados do usuário.
 &#10004; Aula04| Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API .
 
-### Material Complementar
+## Material Complementar
 
 [Curso online Java](https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8)
 
-### Dependências:
+## Dependências:
 
 <!-- lombok -->
 &#10003; Lombok
@@ -72,7 +72,7 @@ Aulas|Descrição
     spring.h2.console.enabled=true
 ~~~
 
-### Acesso ao Banco de Dados
+## Acesso ao Banco de Dados
 `localhost:8080/h2-console`<br>
 `trocar A URL do JDBC para jdbc:h2:mem:todolist`
 ## Estrutura do projeto
