@@ -75,8 +75,22 @@ Aulas|Descrição
 
 ## Acesso ao Banco de Dados
 
-`localhost:8080/h2-console`<br>
-`trocar A URL do JDBC para jdbc:h2:mem:todolist`
+* Digitar no campo de endereço do navegador: <br>
+
+```
+localhost:8080/h2-console
+```
+<br>
+
+
+* trocar o endereço do <strong>JDBC URL</strong> para:<br>
+
+```
+jdbc:h2:mem:todolist 
+```
+<br>
+
+<div align="center"><img src="img/h2-console.png" width=auto></div>
 ## Estrutura do projeto
 
 <div align="center"><img src="img/README.png" width=auto></div>
