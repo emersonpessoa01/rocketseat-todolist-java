@@ -15,8 +15,8 @@
 
 :small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 
-Aulas | Descrição
-:----:  | :----
+Aulas|Descrição
+|----|----|
 &#10004; Aula01| Construção back-end de uma aplicação de To-Do List.
 &#10004; Aula02 | Integração com Banco de Dados utilizando o H2 Database.
 &#10004; Aula03| Implementando segurança nos dados do usuário.
