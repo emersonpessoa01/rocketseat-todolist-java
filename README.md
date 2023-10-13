@@ -16,6 +16,8 @@ Aulas | Descrição
 &#10004; Aula03| Implementando segurança nos dados do usuário.
 &#10004; Aula04| Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API .
 
+### Material Complementar
+[Curso online Java](https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8)
 
 ### Dependências:
 
