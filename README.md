@@ -90,7 +90,7 @@ jdbc:h2:mem:todolist
 ```
 <br>
 
-<div align="center"><img src="img/h2-console.png" width="60%"></div>
+<div align="left"><img src="img/h2-console.png" width="60%"></div>
 
 ## Estrutura do projeto
 
