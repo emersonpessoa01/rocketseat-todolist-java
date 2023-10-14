@@ -145,4 +145,11 @@ https://rocketseat-todolist-java-1fmi.onrender.com/id
 
 ## Estrutura do projeto
 
-<div align="center"><img src="img/README.png" width=auto></div>
+<div><img src="img/manage-environments.png" width="90%"></div><br>
+<div><img src="img/README.png" width="90%"></div><br>
+<div><img src="img/user.png" width="90%"></div><br>
+<div><img src="img/post-tasks.png"width="90%"></div><br>
+<div><img src="img/get-tasks.png" width="90%"></div><br>
+<div><img src="img/put-tasks.png" width="90%"></div><br>
+<div><img src="img/render.png" width="90%"></div>
+
