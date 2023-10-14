@@ -133,7 +133,7 @@ https://rocketseat-todolist-java-1fmi.onrender.com/users
 ```
 https://rocketseat-todolist-java-1fmi.onrender.com/tasks
 ```
-&#10003; Listando de tarefas
+&#10003; Listando tarefas
 ```
 https://rocketseat-todolist-java-1fmi.onrender.com/tasks
 ```
