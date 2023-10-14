@@ -19,7 +19,7 @@
 
 :small_blue_diamond:[Cadastro Deploy](#cadastro-deploy)
 
-:small_blue_diamon:[API Deploy](#api-deploy)
+:small_blue_diamond:[API Deploy](#api-deploy)
 
 :small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 <br><br>
