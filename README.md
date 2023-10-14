@@ -14,9 +14,12 @@
 
 :small_blue_diamond:[Acesso ao Banco de Dados](#acesso-ao-banco-de-dados)
 
-:small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 
 :small_blue_diamond:[Configuração do application properties](#Configuração-do-application-properties)
+
+:small_blue_diamond:[Cadastro Deploy](#cadastro-deploy)
+
+:small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
 <br><br>
 
 | Aulas           | Descrição                                                                         |
@@ -62,6 +65,19 @@
             <version>0.10.2</version>
         </dependency>
 
+&#10003; Developer Tools &nbsp;&nbsp;&nbsp;[Segue o link](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+        </dependency>
+
+Startar o servidor:
+```
+$ mvn spring-boot:run
+```
+
 ## Configuração do application properties
 
 ```
@@ -92,6 +108,11 @@ jdbc:h2:mem:todolist
 <br>
 
 <div align="center"><img src="img/h2-console.png" width="60%"></div>
+
+## Cadastro Deploy
+[render.com](https://render.com/)
+
+<br>
 
 ## Estrutura do projeto
 
