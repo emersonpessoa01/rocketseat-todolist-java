@@ -25,42 +25,43 @@ public class FilterTaskAuth extends OncePerRequestFilter {
             throws ServletException, IOException {
 
         var servletPath = request.getServletPath();
-        if (servletPath.equals("/tasks")) {
-            // Pegar a autenticação (usuário e senha)
+        if (servletPath.equals("/tasks/")) {
+
+            // Pegar a auatenticação (usuário e senha)
             var authorization = request.getHeader("Authorization");
 
-            var authEncoded = authorization.substring("Basic".length()).trim();
+            var authEnconded = authorization.substring("Basic".length()).trim();
 
-            // Criar uma array de bites
-            byte[] authDecode = Base64.getDecoder().decode(authEncoded);
+            byte[] authDecode = Base64.getDecoder().decode(authEnconded);
 
             var authString = new String(authDecode);
 
-            // ["emersonpessoa","12345"]
+             // ["emersonpessoa","12345"]
             String[] credentials = authString.split(":");
             String username = credentials[0];
             String password = credentials[1];
 
-            /*
-             * System.out.println("Authorization");
-             * System.out.println(username);
-             * System.out.println(password);
-             */
+            // System.out.println(username);
+            // System.out.println(password);
 
             // Validar usuário
             var user = this.userRepository.findByUsername(username);
+
             if (user == null) {
-                response.sendError(401, "Usuário sem autorização");
+                response.sendError(401);
             } else {
+
                 // Validar senha
                 var passwordVerify = BCrypt.verifyer().verify(password.toCharArray(), user.getPassword());
+
                 if (passwordVerify.verified) {
                     filterChain.doFilter(request, response);
                 } else {
+
                     response.sendError(401);
+
                 }
                 // Segue viagem
-
             }
         } else {
             filterChain.doFilter(request, response);
