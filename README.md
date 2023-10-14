@@ -14,14 +14,16 @@
 
 :small_blue_diamond:[Acesso ao Banco de Dados](#acesso-ao-banco-de-dados)
 
-
 :small_blue_diamond:[Configuração do application properties](#Configuração-do-application-properties)
 
 :small_blue_diamond:[Cadastro Deploy](#cadastro-deploy)
 
 :small_blue_diamond:[API Deploy](#api-deploy)
 
+:small_blue_diamond:[Path de requisição](#path-de-requisição)
+
 :small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
+
 <br><br>
 
 | Aulas           | Descrição                                                                         |
@@ -119,6 +121,26 @@ jdbc:h2:mem:todolist
 ## API Deploy
 [todolist](https://rocketseat-todolist-java-1fmi.onrender.com)
 
+<br>
+
+## Path de requisição
+
+&#10003; Cadastro de usuários
+```
+https://rocketseat-todolist-java-1fmi.onrender.com/users
+```
+&#10003; Cadastro de tarefas
+```
+https://rocketseat-todolist-java-1fmi.onrender.com/tasks
+```
+&#10003; Listando de tarefas
+```
+https://rocketseat-todolist-java-1fmi.onrender.com/tasks
+```
+&#10003; Atualizando tarefas
+```
+https://rocketseat-todolist-java-1fmi.onrender.com/id
+```
 <br>
 
 ## Estrutura do projeto
