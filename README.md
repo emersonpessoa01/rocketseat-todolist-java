@@ -61,7 +61,7 @@
             <scope>runtime</scope>
         </dependency>
 
-&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link]([https://projectlombok.org/setup/maven](https://github.com/patrickfav/bcrypt))
+&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link](https://github.com/patrickfav/bcrypt)
 
         <dependency>
             <groupId>at.favre.lib</groupId>
