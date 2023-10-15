@@ -61,7 +61,7 @@
             <scope>runtime</scope>
         </dependency>
 
-&#10003; bcrypt
+&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link]([https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html](https://projectlombok.org/setup/maven))
 
         <dependency>
             <groupId>at.favre.lib</groupId>
