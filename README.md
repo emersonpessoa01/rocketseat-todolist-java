@@ -40,7 +40,7 @@
 
 ## Dependências:
 
-&#10003; Lombok
+&#10003; Lombok &nbsp;&nbsp;&nbsp;[Segue o link](https://projectlombok.org/setup/maven)
 
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -49,7 +49,7 @@
             <scope>provided</scope>
         </dependency>
 
-&#10003; h2 Database Engine
+&#10003; h2 Database Engine &nbsp;&nbsp;&nbsp;[Segue o link](https://www.baeldung.com/spring-boot-h2-database)
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -61,7 +61,7 @@
             <scope>runtime</scope>
         </dependency>
 
-&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link]([https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html](https://projectlombok.org/setup/maven))
+&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link]([https://projectlombok.org/setup/maven](https://github.com/patrickfav/bcrypt))
 
         <dependency>
             <groupId>at.favre.lib</groupId>
