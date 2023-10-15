@@ -40,7 +40,7 @@
 
 ## Dependências:
 
-&#10003; Lombok
+&#10003; Lombok &nbsp;&nbsp;&nbsp;[Segue o link](https://projectlombok.org/setup/maven)
 
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -49,7 +49,7 @@
             <scope>provided</scope>
         </dependency>
 
-&#10003; h2 Database Engine
+&#10003; h2 Database Engine &nbsp;&nbsp;&nbsp;[Segue o link](https://www.baeldung.com/spring-boot-h2-database)
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -61,7 +61,7 @@
             <scope>runtime</scope>
         </dependency>
 
-&#10003; bcrypt
+&#10003; bcrypt &nbsp;&nbsp;&nbsp;[Segue o link](https://github.com/patrickfav/bcrypt)
 
         <dependency>
             <groupId>at.favre.lib</groupId>
@@ -145,9 +145,8 @@ https://rocketseat-todolist-java-1fmi.onrender.com/id
 
 ## Estrutura do projeto
 
-<div><img src="img/manage-environments.png" width="90%"></div><br>
 <div><img src="img/README.png" width="90%"></div><br>
-<div><img src="img/user.png" width="90%"></div><br>
+<div><img src="img/manage-environments.png" width="90%"></div><br>
 <div><img src="img/post-tasks.png"width="90%"></div><br>
 <div><img src="img/get-tasks.png" width="90%"></div><br>
 <div><img src="img/put-tasks.png" width="90%"></div><br>
